@@ -1,0 +1,47 @@
+<¡htmldoc> 
+    <body>
+        <h1>
+            Side hustle intent 2022.
+        </h1>
+        <p> html lession for the week.</p>
+    
+    <p>table attribute applied</p>
+    <br>
+    <tr>
+        <th>monday</th>
+        <th>tuseday</th>
+    </tr>
+    <tr>
+        <td> 9am lecture </td>
+        <td>12pm lecture</td>
+    </tr>
+    <tr>
+        <td>10am lecture</td>
+        <td> study break</td>
+        <td>2pm lwcture</td>
+    </tr>
+    </br>
+    <p2>
+        html form application
+    </p2>
+    <br>
+   <forms>
+       first name:<br>
+       <input type="text name"="first name"></br>
+       </br>
+       email  address:<br>
+       <input type="text name"="email">
+       </br>
+   </forms>
+   <p3> audios and videos</p3>
+   <br> 
+   <audio control>
+       <source src="Onye Eze (Mp3 & Lyrics).mp3" type= "audio/mp3">
+   </audio>
+   </br>
+   <br>
+   <video control>
+       <source src="VID-20220813-WA0114.mp4" type= "video/mp4">
+       </br>
+  </body>
+</html>
