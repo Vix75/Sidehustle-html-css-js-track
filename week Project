@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+
+<style> 
+.flex{
+  Display;flex
+}
+ </style>
+
+   
+     <title> HTML tract</title>
+     
+       <meta charset="UTF-8">
+    <title>SIDE HUSTLE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Supherhero">
+    <meta name="keywords" content="programming hero,learn programming">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon">
+    <!--@bootstrapCss-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">">
+   
+   
+    <!--custom css-->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section id="flex">
+
+<div class="box>"
+<br>
+<img  src="Screenshot_20220812-112633.jpg" style ="img{width:100px
+}>
+</br>
+</div>
+
+
+<div class="box">
+    <h3>Hello World</h3>
+    
+    <p>we render real time  services here. The road to sucess is a narrow and rough oath that is wjy only bit a few tread that path. 
+    It takes resilence,  grit, dedication, determination and an open heart to accept the rigor of what so ever training it may be. 
+    </p>
+        <a href="https://www.sidehustle.com"> Visit for more information  </a>
+ </a>
+    <br>
+    <h5> Feel free to fill in  the required details below in other to sail with us through this journey of exciting learning. </h5>
+    </br>
+    </div>
+ 
+ <div>
+<form>
+      First Name:<br>         
+      <input type="text"name="First Name"> </br>
+      
+      Email Adress:<br>
+     <input type="text"name="Email"></br> 
+     
+      Password:<br>
+       <input type ="text"name="password"</br>
+     
+      <br>Phone Number:</br>
+     <input type="text"name="phone number"</br>
+     
+    <br>Last Name:</br>
+     <input type>
+     
+     <br> Confirm Password</br>
+     <input type>
+ </form>
+ 
+ <br>
+ 
+ <head>
+ <span style="border: 1px solid black"> Creat Account </span></br>
+ 
+ <p> Already have an account? </p> <a href="https://www.facebook.com">Log in</a>
+ </head>
+ </div>
+ 
+ </section>
+ 
+<!--main js-->
+<script src="js/main.js"></script>
+</body>
+</html>
